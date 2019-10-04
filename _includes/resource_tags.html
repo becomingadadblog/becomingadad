@@ -3,8 +3,8 @@
 		<span class="tag-filter tag-cloud all active">All</span>
 		
     {% assign tagarray = site.tagarray %}
-    {% for project in site.data.projects %}
-      {% for tag in project.tags %}
+    {% for resource in site.data.resources %}
+      {% for tag in resource.tags %}
         {% assign tagarray = tagarray | push: tag %}
       {% endfor %}
     {% endfor %}

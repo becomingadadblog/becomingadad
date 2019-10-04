@@ -1,31 +1,32 @@
 title: Becoming a dad
-description: My Personal Stack Problems
+description: My journey to becoming a dad and beyond
 author: Downward Facing Dad
-about: I just become a dad and writing down 
-disqus_shortname: bacomingadad
+contact_email: becomingadadorg@gmail.com
+about: I just become a dad and writing down my thoughts and experiences
+disqus_shortname: becomingadad
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
 tagarray: []
 
 collections:
-  project:
+  resources:
     output: true
-    permalink: /project/:path/
+    permalink: /resource/:path/
 
 social:
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/becomingadadorg"
 
 share:
-  twitter_username: github.io
+  twitter_username: becomingadadorg
   fb_appid: 1749788565247320
 
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
+    - text: Resources
+      url: /resources/
     - text: XML Feed
       url: /feed.xml
 
@@ -35,9 +36,12 @@ paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
+plugins:
   - jekyll-paginate
-  - jekyll-gist
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jemoji
 
 compress_html:
   clippings: all

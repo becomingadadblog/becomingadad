@@ -14,9 +14,9 @@
 			});
 
 			if( $(this).hasClass('all'))
-				$('.project-item').showAll();
+				$('.resource-item').showAll();
 			else
-				$('.project-item').filterTags( $(this).data('tag') );
+				$('.resource-item').filterTags( $(this).data('tag') );
 		});
 	});
 

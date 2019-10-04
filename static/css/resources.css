@@ -1,14 +1,14 @@
-/* Project Elements */
-.project-outer {
+/* resource Elements */
+.resource-outer {
   display: inline-block;
   width: 30%;
   vertical-align: top;
   margin: 0 10px;
 }
-.project-img img {
+.resource-img img {
   width: 100%;
 }
-h3.project-headlines {
+h3.resource-headlines {
   margin: 5px 0;
   font-size: 20px;
 }
@@ -24,28 +24,28 @@ span.tags:first-child {
 span.tags:last-child {
   margin-right: 0;
 }
-.project-footer {
+.resource-footer {
   clear: both;
   display: inline-block;
   width: 100%;
 }
-.project-footer .project-link {
+.resource-footer .resource-link {
   display: inline-block;
   position: relative;
   float: left;
   text-decoration: none;
 }
-.project-footer .project-timeline {
+.resource-footer .resource-timeline {
   display: inline-block;
   position: relative;
   float: right;
   font-size: 13px;
   font-style: italic;
 }
-.project-inner > a {
+.resource-inner > a {
   display: block;
 }
-.project-img {
+.resource-img {
   width: 230px;
   height: 200px;
   display: block;
@@ -54,7 +54,7 @@ span.tags:last-child {
   background-position: center center;
 }
 
-/** Project Tag Filters **/
+/** resource Tag Filters **/
 .tag-group {
   margin: 0 0 25px 0;
 }
@@ -69,12 +69,12 @@ span.tag-cloud {
 .tag-cloud.active {
   background: #ccc;
 }
-.project-item.not-show {
+.resource-item.not-show {
   display: none;
 }
-a.project-detail:hover {
+a.resource-detail:hover {
   text-decoration: none;
 }
-a.project-detail:hover h3 {
+a.resource-detail:hover h3 {
   color: #62A253;
 }
