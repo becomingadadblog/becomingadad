@@ -4,5 +4,7 @@
     })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
     ga('create', '{{ site.google_analytics }}', 'auto');
+    ga('set', 'anonymizeIp', true);
+    ga('set', 'forceSSL', true);
     ga('send', 'pageview');
   
