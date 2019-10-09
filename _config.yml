@@ -6,6 +6,8 @@ about: I just become a dad and writing down my things that helped me prepare and
 disqus_shortname: becomingadad
 google_analytics: UA-63511504-3
 
+permalink: /:year/:month/:day/:title:output_ext
+
 enableTags: true
 tagarray: []
 
