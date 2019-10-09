@@ -2,7 +2,7 @@
 layout: post
 title: I wish someone had told me...
 date:  2019-10-09 17:00:00 +1000
-categories: [parenting, dad, blog]
+categories: [pregnancy, birth, preparations]
 summary: I wish someone had told me...
 ---
 My baby has arrived early September 2019, a bit ahead of schedule, taking us by surprise. On one night, we jumped out of our bed and rushed to the hospital only to learn the new chapter of our life is about to start.
