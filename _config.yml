@@ -1,1 +1,49 @@
-theme: jekyll-theme-tactile
+title: Becoming a dad
+description: My journey to becoming a dad and beyond
+author: Becoming a dad
+contact_email: becomingadadorg@gmail.com
+about: I just become a dad and writing down my things that helped me prepare and overcome stress. I hope you find them valuable.
+disqus_shortname: becomingadad
+google_analytics: UA-63511504-3
+
+enableTags: true
+tagarray: []
+
+collections:
+  resources:
+    output: true
+    permalink: /resource/:path/
+
+social:
+    - icon: fa-twitter
+      link: "https://twitter.com/becomingadadorg"
+
+share:
+  twitter_username: becomingadadorg
+  fb_appid: 1749788565247320
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://bacomingadad.org"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+plugins:
+  - jekyll-paginate
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jemoji
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
