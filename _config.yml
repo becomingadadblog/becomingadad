@@ -19,10 +19,10 @@ collections:
 social:
     - icon: fa-twitter
       link: "https://twitter.com/becomingadadorg"
+      handle: "@becomingadadorg"
 
 share:
   twitter_username: becomingadadorg
-  fb_appid: 1749788565247320
 
 urls:
     - text: About Me
@@ -30,7 +30,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://bacomingadad.org"
+url: "https://bacomingadad.blog"
 baseurl: ""
 paginate: 20
 per_page: 20
