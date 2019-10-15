@@ -2,7 +2,7 @@
 layout: post
 title: ...and how do YOU feel?
 date:  2019-10-15 09:00:00 +1000
-categories: [pregnancy, birth]
+categories: [wellbeing]
 summary: How do you feel as a new dad or dad to be?
 ---
 
