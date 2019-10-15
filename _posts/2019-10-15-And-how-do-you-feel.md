@@ -20,4 +20,12 @@ I went through a few books helping dads understand pregnancy and childbirth, but
 
 This is how this blog got conceived. I found becoming a dad as a marvellous and rewarding element of life. There is no substitute to that if you want to experience it. I intend to put tips and tricks that helped me to prepare and stay sane. I hope you will find bits and pieces you could use, or maybe (knowing that we all struggle, make mistakes and feel bewildered every now and then) it will make you feel a little less overwhelmed.
 
+> **Lessons learned**
+>
+> Supporting a new dad doesn't have to be a grand gesture. Simple conversation and letting them know they can reach out to you can work magic. Simple things like exchanging few texts, or having a coffee together really matter.
+>
+>If you're a dad to be, really use your friends, family or someone you trust to talk about your thoughts and feelings. Your role as a dad is important, and your contributions to your family are invaluable. If you can, build a support network around you so you can be a support for your family.
+>
+>If you know a dad to be or someone who just became one, reach out, drop a text, suggest a catch-up over lunch or coffee. Ask them how they feel about their new role, or simply offer your company.
+
 So, tell me, new dad... how do YOU feel?
