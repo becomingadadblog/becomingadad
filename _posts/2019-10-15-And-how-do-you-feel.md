@@ -29,3 +29,5 @@ This is how this blog got conceived. I found becoming a dad as a marvellous and 
 >If you know a dad to be or someone who just became one, reach out, drop a text, suggest a catch-up over lunch or coffee. Ask them how they feel about their new role, or simply offer your company.
 
 So, tell me, new dad... how do YOU feel?
+
+*PS. I'd like to acknowledge all the people who reached out, asked how I feel and offered their time to listen to me. It means a world to me. Thank you...* 🙏
