@@ -103,6 +103,8 @@ div.col-sm-3 div.profile-about {
   color: #8C8C8C;
 }
 
+
+
 /* Pagination */
 .PageNavigation {
   font-size: 14px;
@@ -165,5 +167,21 @@ div.col-sm-3 div.profile-about {
 @media (max-width: 768px) {
   div.col-sm-3 {
     margin-top: 30px;
+  }
+}
+
+#home .posts .post-title{
+  display: block;
+  width: 70%;
+}
+
+#home .posts .post-reading-time{
+  font-size: .8em;
+  font-style: italic;
+}
+
+@media (min-width: 470px) {
+  #home .posts .post-title{
+    float: left;
   }
 }
