@@ -175,6 +175,10 @@ div.col-sm-3 div.profile-about {
   width: 70%;
 }
 
+#home .posts .post-reading-time{
+  font-size: .8em;
+}
+
 @media (min-width: 470px) {
   #home .posts .post-title{
     float: left;

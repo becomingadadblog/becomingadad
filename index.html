@@ -7,7 +7,22 @@ layout: default
   <hr />
   <ol class="posts">
     {% for post in paginator.posts %}
-      <li><a href="{{ post.url }}"><span class="post-title">{{ post.title }}</span></a> &raquo; <i><span class="post-date">{{ post.date | date_to_string }}</span></i></li>
+      <li>
+        <a href="{{ post.url }}">
+            <span class="post-title">{{ post.title }}</span>
+        </a> &raquo;
+        <span class="post-meta">
+          <i><span class="post-date">{{ post.date | date_to_string }}</span></i>
+          <div class="post-reading-time">
+            {% capture words %}
+            {{ post.content | number_of_words | minus : 180 }}
+            {% endcapture %}
+            {% unless words contains '-' %}
+            {{ words | plus: 150 | divided_by:150 | append: ' minutes to read' | prepend: '~'}}
+            {% endunless %}
+          </div>
+        </span>
+      </li>
     {% endfor %}
   </ol>
   <!-- Pagination links -->
