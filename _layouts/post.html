@@ -3,8 +3,21 @@ layout: default
 ---
 <header class="post-header">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="time">{{ page.date | date_to_string }}</span>
+  <span class="posted-on">
+    <i class="far fa-calendar"></i>
+    <span class="time">{{ page.date | date_to_string }}</span>
+  </span>
+  <span class="time-to-read">
+    <i class="fas fa-clock"></i>
+    {% capture words %}
+    {{ content | number_of_words | minus : 180 }}
+    {% endcapture %}
+    {% unless words contains '-' %}
+    {{ words | plus: 150 | divided_by:150 | append: ' minutes read' | prepend: '~'}}
+    {% endunless %}
+  </span>
   {% if page.categories %}
+
     <span class="categories">
       &raquo; {% for category in page.categories %}<a href="/category/{{ category }}">{{ category }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}
     </span>

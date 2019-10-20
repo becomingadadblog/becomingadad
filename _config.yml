@@ -17,7 +17,7 @@ collections:
     permalink: /resource/:path/
 
 social:
-    - icon: fa-twitter
+    - icon: fab fa-twitter-square
       link: "https://twitter.com/becomingadadorg"
       handle: "@becomingadadorg"
 

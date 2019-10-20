@@ -13,11 +13,11 @@ hr {
   border-bottom: 1px solid #fff;
 }
 
-.post-header .time, .post-header .categories
+.post-header .time, .post-header .categories, .post-header .time-to-read
 {
-  color: #ADADAD;
   margin-bottom: 4px;
-  font-size: 12px;
+  margin-right: 10px;
+  font-size: 0.8em;
 }
 h1, h2, h3 {
   color: #696969;
@@ -137,7 +137,7 @@ div.col-sm-3 div.profile-about {
 }
 .social ul li {
   display: inline-block;
-  margin: 0 5px;
+  margin: 0;
 }
 .social li a {
   font-size: 16px;
@@ -145,6 +145,11 @@ div.col-sm-3 div.profile-about {
 }
 .social li a:hover {
   color: #6D6D6D;
+}
+
+.social .social-handle{
+  margin: 0 10px;
+  font-size: 0.9em;
 }
 
 .share-page {
