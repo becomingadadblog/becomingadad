@@ -84,7 +84,7 @@ layout: compress
     {% endif %}
 
     <!-- Font awesome icons -->
-    <link href="/static/css/font-awesome.min.css" rel="stylesheet" integrity="sha256-AIodEDkC8V/bHBkfyxzolUMw57jeQ9CauwhVW6YJ9CA=" crossorigin="anonymous">
+    <script src="https://kit.fontawesome.com/5e35740044.js" crossorigin="anonymous"></script>
     <!-- Bootstrap core CSS -->
     <link href="/static/css/bootstrap.min.css" rel="stylesheet">
     <!-- Fonts -->
@@ -113,7 +113,7 @@ layout: compress
           <div class="social">
             <ul>
               {% for link in site.social %}
-                <li><a href="{{ link.link }}" target="_blank"><i class="fa {{ link.icon }}"></i>{{ link.handle }}</a></li>
+                <li><a href="{{ link.link }}" target="_blank"><i class="social-icon {{ link.icon }}"></i><span class="social-handle">{{ link.handle }}</span></a></li>
               {% endfor %}
             </ul>
           </div>
