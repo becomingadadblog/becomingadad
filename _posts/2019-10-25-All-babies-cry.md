@@ -36,4 +36,4 @@ Stay calm, support each other, hard days will come and they will go, and you're 
 > * Knowing that all babies cry and hearing your own crying that tears your soul into pieces are two different >things.
 > * You're a team, stepping on each other toes and arguing over approaches creates even more stress.
 > * Staying calm can be very effective on its own. Babies are potent mirrors of our own moods. Be there for your baby, they will cry and make soul-shattering noises, but all they have is us, and we should do our best and not add to their stress.
-> *Call for help if you feel like you need one, get all the numbers from your caregiver or GP and use them.
+> * Call for help if you feel like you need one, get all the numbers from your caregiver or GP and use them.
