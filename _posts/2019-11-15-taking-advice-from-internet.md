@@ -32,7 +32,7 @@ I wouldn't dismiss every advice from the Internet straight away. There are plent
 
 The other problem with taking parenting advice from the Internet is quite similar to taking any advice from the Internet. Internet resources are ranked based on how POPULAR they are, not how effective or safe they are. Watching a YouTube video with 100k likes of a power-mum who tells how she settles her baby in 3 easy steps might be a great idea. But when those 3 easy steps fail for us, quite quickly we start thinking there is something wrong with either us or our little one. Also, those resources are often advertised in a click-baity way. *"Does your baby have problem with getting to sleep?"*, *"Does your baby feed too often?"*, *"Are you concerned about your baby poo?"* - Put those in front of sleep-deprived, first-time parents, and you will get yes to any of those questions. Making us feel there is something we have to worry about.
 
-Are we really expecting there is a magic trick that will apply to all babies without fail? Figuring out what works for us and our little one is... parenting. With all fun, challenge, stress and also gratitude involved.
+Are we really expecting there is a magic trick that will apply to all babies without fail? Figuring out what works for us and our little one is... parenting. With all fun, challenge, stress but also gratification included.
 
 
 > **Lessons learned**
